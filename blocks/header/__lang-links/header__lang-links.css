@@ -5,3 +5,9 @@
   list-style: none;
   display: flex;
 }
+
+@media (min-width: 768px) {
+  .header__lang-links {
+    padding: 12px 0 0;
+  }
+}

@@ -4,3 +4,10 @@
   color: inherit;
   text-decoration: none;
 }
+
+@media (min-width: 768px) {
+  .header__lang-link {
+    font-size: 24px;
+    line-height: 28px;
+  }
+}

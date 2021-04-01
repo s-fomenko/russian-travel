@@ -2,3 +2,15 @@
   max-width: calc(100% - 32px);
   margin: 0 auto;
 }
+
+@media (min-width: 768px) {
+  .page__container {
+    max-width: calc(100% - 48px);
+  }
+}
+
+@media (min-width: 1024px) {
+  .page__container {
+    max-width: calc(100% - 96px);
+  }
+}
