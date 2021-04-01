@@ -1,0 +1,9 @@
+.place__text-wrapper {
+  padding: 0 16px;
+}
+
+@media (min-width: 768px) {
+  .place__text-wrapper {
+    padding: 0;
+  }
+}
