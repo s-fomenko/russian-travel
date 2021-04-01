@@ -5,5 +5,15 @@
   text-align: center;
   color: #fff;
   margin: 0 0 16px;
+  width: 100%;
   max-width: 288px;
+}
+
+@media (min-width: 768px) {
+  .lead__title {
+    font-size: 96px;
+    line-height: 100px;
+    max-width: 720px;
+    margin: 0 0 32px;
+  }
 }
