@@ -1,0 +1,13 @@
+.intro {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+  padding-left: 16px;
+}
+
+@media (min-width: 768px) {
+  .intro {
+    padding-left: 24px;
+  }
+}

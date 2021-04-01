@@ -3,6 +3,11 @@
   line-height: 20px;
   color: inherit;
   text-decoration: none;
+  transition: opacity .5s ease;
+}
+
+.header__lang-link:hover {
+  opacity: 80%;
 }
 
 @media (min-width: 768px) {
