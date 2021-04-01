@@ -5,7 +5,7 @@
   margin: 0;
 }
 
-.place__text:first-of-type {
+.place__text:not(:only-child):not(:last-child)  {
   margin-bottom: 25px;
 }
 
@@ -14,13 +14,13 @@
     font-size: 18px;
   }
 
-  .place__text:first-of-type {
+  .place__text:not(:only-child):not(:last-child) {
     margin-bottom: 27px;
   }
 }
 
 @media (min-width: 1280px) {
-  .place__text:first-of-type {
+  .place__text:not(:only-child):not(:last-child) {
     margin-bottom: 26px;
   }
 }
