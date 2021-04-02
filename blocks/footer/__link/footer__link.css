@@ -1,16 +1,17 @@
 .footer__link {
-  color: inherit;
-  text-decoration: none;
-  transition: opacity .5s ease;
   font-size: 24px;
   line-height: 24px;
+  text-decoration: none;
+  transition: opacity .5s ease;
+  color: inherit;
 }
 
 .footer__link:hover {
   opacity: 80%;
 }
 
-@media (min-width: 768px) {
+@media (min-width:768px) {
+
   .footer__link {
     font-size: 16px;
     line-height: 18px;

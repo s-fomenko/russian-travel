@@ -2,13 +2,15 @@
   margin-bottom: 50px;
 }
 
-@media (min-width: 768px) {
+@media (min-width:768px) {
+
   .page__place {
     margin-bottom: 73px;
   }
 }
 
-@media (min-width: 1024px) {
+@media (min-width:1024px) {
+
   .page__place {
     margin-bottom: 80px;
   }

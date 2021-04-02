@@ -6,9 +6,10 @@
   padding: 0 16px;
 }
 
-@media (min-width: 768px) {
+@media (min-width:768px) {
+
   .place__link-wrapper {
-    padding: 0;
     justify-content: flex-end;
+    padding: 0;
   }
 }

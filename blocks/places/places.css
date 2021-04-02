@@ -1,16 +1,19 @@
-@media (min-width: 768px) {
+@media (min-width:768px) {
+
   .places {
     padding: 0 24px;
   }
 }
 
-@media (min-width: 1024px) {
+@media (min-width:1024px) {
+
   .places {
     padding: 0 48px;
   }
 }
 
-@media (min-width: 1280px) {
+@media (min-width:1280px) {
+
   .places {
     padding: 0 148px;
   }

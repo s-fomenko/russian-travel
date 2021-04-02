@@ -2,13 +2,15 @@
   margin-bottom: 66px;
 }
 
-@media (min-width: 768px) {
+@media (min-width:768px) {
+
   .page__places {
     margin-bottom: 90px;
   }
 }
 
-@media (min-width: 1024px) {
+@media (min-width:1024px) {
+
   .page__places {
     margin-bottom: 92px;
   }
