@@ -9,3 +9,10 @@
 .footer__link:hover {
   opacity: 80%;
 }
+
+@media (min-width: 768px) {
+  .footer__link {
+    font-size: 16px;
+    line-height: 18px;
+  }
+}

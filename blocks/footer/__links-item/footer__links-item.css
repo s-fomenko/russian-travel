@@ -1,3 +1,10 @@
 .footer__links-item:not(:last-of-type) {
   margin-bottom: 32px;
 }
+
+@media (min-width: 768px) {
+  .footer__links-item:not(:last-of-type) {
+    margin-bottom: 0;
+    margin-right: 18px;
+  }
+}

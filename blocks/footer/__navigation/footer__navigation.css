@@ -1,3 +1,9 @@
 .footer__navigation {
   margin-bottom: 48px;
 }
+
+@media (min-width: 768px) {
+  .footer__navigation {
+    margin-bottom: 0;
+  }
+}

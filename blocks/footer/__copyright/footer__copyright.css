@@ -3,3 +3,9 @@
   line-height: 14px;
   margin: 0;
 }
+
+@media (min-width: 768px) {
+  .footer__copyright {
+    line-height: 16px;
+  }
+}
