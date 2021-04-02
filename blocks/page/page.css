@@ -8,6 +8,7 @@
   -webkit-text-size-adjust: 100%;
   -moz-text-size-adjust: 100%;
   text-rendering: optimizeLegibility;
+  color: #fff;
 }
 
 @media (min-width: 768px) {

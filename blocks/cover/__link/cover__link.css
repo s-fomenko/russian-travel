@@ -1,6 +1,6 @@
 .cover__link {
   position: relative;
-  color: #fff;
+  color: inherit;
   text-decoration: none;
   padding: 33px 16px;
   display: flex;
