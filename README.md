@@ -6,3 +6,5 @@
 ## Используемые технологии:
 - HTML
 - CSS
+
+[Ссылка на страницу проекта](https://s-fomenko.github.io/russian-travel/)
