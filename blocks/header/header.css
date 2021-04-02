@@ -18,3 +18,10 @@
     padding: 0 48px;
   }
 }
+
+@media (min-width:1280px) {
+
+  .header {
+    padding: 0;
+  }
+}

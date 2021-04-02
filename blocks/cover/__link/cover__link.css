@@ -9,7 +9,6 @@
   background: url(../../../images/cover-trains.jpg) no-repeat 50%;
   background-size: cover;
   text-decoration: none;
-  transition: opacity .5s ease;
   color: inherit;
 }
 
@@ -23,9 +22,10 @@
   background-color: #2a2c2f;
   opacity: 30%;
   content: '';
+  transition: opacity .5s ease;
 }
 
-.cover__link:hover {
+.cover__link:hover::after {
   opacity: 80%;
 }
 
