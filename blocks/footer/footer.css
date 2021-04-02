@@ -18,8 +18,6 @@
 @media (min-width:1024px) {
 
   .footer {
-    flex-direction: row;
-    justify-content: space-between;
     padding: 92px 48px 24px;
   }
 }
